@@ -1,6 +1,6 @@
 # 📊 Market Analysis & Customer Insights Project  
 
-## 📌 Problem Statement  
+## 📌 Problem Statement   
 Understanding **customer engagement, conversion rates, and sentiment analysis** is critical for businesses to optimize marketing strategies and improve customer satisfaction. This project focuses on analyzing **conversion trends, social media engagement, and customer feedback** to provide actionable insights for business growth.  
 
 ---
